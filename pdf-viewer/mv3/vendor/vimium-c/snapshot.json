@@ -1,0 +1,13 @@
+{
+  "extension_id": "hfjbmagddngcpeloejdejnfgbamkjaeg",
+  "version": "2.12.2",
+  "build": "9e78033",
+  "source": "https://chromewebstore.google.com/detail/hfjbmagddngcpeloejdejnfgbamkjaeg",
+  "sha256": {
+    "LICENSE.txt": "74cf78c0a915c141f656a9fce1dac48a440d2328e262cf7714f06cd1889bec79",
+    "content/extend_click_vc.js": "c08e0436bbb710fa381c1c4533dba7296aaec16b5c8410c0ca34d70f1286ebc1",
+    "content/vimium-c.js": "9d3534d1ae106da593784e0c803f7e67cf545e2529c7989875dc59199db232a5",
+    "content/injected_end.js": "59f3fea6ee7c18af3f3de8e2707d5c4309871ece27efe8eb871a5d7e79108eb4",
+    "lib/injector.js": "9bba7ffc155ebe4bb074f24e6664ef8e17f6cd60d0d804d63c5ed40b710e9591"
+  }
+}
